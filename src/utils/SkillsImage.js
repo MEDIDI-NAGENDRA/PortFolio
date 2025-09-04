@@ -56,7 +56,7 @@ import strapi from "../Assets/svg/skills/strapi.svg";
 import tensorflow from "../Assets/svg/skills/tensorflow.svg";
 import webix from "../Assets/svg/skills/webix.svg";
 import wordpress from "../Assets/svg/skills/wordpress.svg";
-import SpringBoot from "../Assets/svg/skills/springboot.svg";
+import SpringBoot from "../Assets/svg/skills/SpringBoot.svg";
 
 import azure from "../Assets/svg/skills/azure.svg";
 import blender from "../Assets/svg/skills/blender.svg";
